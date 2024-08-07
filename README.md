@@ -46,3 +46,5 @@ When you run the program, you will be presented with a menu to choose from the f
 **Search Student**
 **Update Student Details**
 **Exit**
+## Screen Shot
+https://drive.google.com/file/d/1ifQ8GyCbiDgwU5yxduIo4BJUlNJ3qtVg/view?usp=sharing
