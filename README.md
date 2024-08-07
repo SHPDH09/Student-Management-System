@@ -78,3 +78,6 @@ When you run the program, you will be presented with a menu to choose from the f
 ## step - 10 Option 7 Update Student Details With Details Wise 
 
 ![Student Management System Screenshot](https://drive.google.com/uc?export=view&id=1BDRVVNxHZ_LeKEV9JYMKqgKadtHonKqa)
+
+
+
