@@ -47,4 +47,7 @@ When you run the program, you will be presented with a menu to choose from the f
 **Update Student Details**
 **Exit**
 ## Screen Shot
-https://drive.google.com/file/d/1ifQ8GyCbiDgwU5yxduIo4BJUlNJ3qtVg/view?usp=sharing
+## Screenshot
+
+![Step 1 - DashBoard ](https://drive.google.com/uc?export=view&id=1ifQ8GyCbiDgwU5yxduIo4BJUlNJ3qtVg)
+
