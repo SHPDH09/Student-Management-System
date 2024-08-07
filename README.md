@@ -46,8 +46,35 @@ When you run the program, you will be presented with a menu to choose from the f
 **Search Student**
 **Update Student Details**
 **Exit**
-## Screen Shot
-## Screenshot
+
+## Step 1 - DashBoard 
 
 ![Step 1 - DashBoard ](https://drive.google.com/uc?export=view&id=1ifQ8GyCbiDgwU5yxduIo4BJUlNJ3qtVg)
+## Step 2- Add New Student
 
+![Student Management System Screenshot](https://drive.google.com/uc?export=view&id=1CGEGC7Xu1HpaeaXby9I_wGpZ8314yL2V)
+
+## Step 3 - Select Course
+
+![Student Management System Screenshot](https://drive.google.com/uc?export=view&id=19oTSqo_48sr84RfcwRMZ6Y4-h3hpFF3g)
+## Step 4 - Select Branch and Fill The All Details
+
+![Student Management System Screenshot](https://drive.google.com/uc?export=view&id=1HBv5daWhwY7qpYKJT3UGcwPqSEYYd_Wl)
+## Step - 5- Option 2 display all student
+
+![Student Management System Screenshot](https://drive.google.com/uc?export=view&id=1oIwwv4lddIl9P3-SW0dj2v_AsqhhumVJ)
+## Step -6 Option 3 To Modyfy All The Information And Replace The Data
+
+![Student Management System Screenshot](https://drive.google.com/uc?export=view&id=1P1hIfKfgv24cZZuUKS7uk7L1d3moG65t)
+## Step-7 Option 4 Delete The Student Data
+
+![Student Management System Screenshot](https://drive.google.com/uc?export=view&id=1Y9B7ei42Unm1Orj3Mja1fPvF1-8m89as)
+## Step -8 Option 5 Update Student Details Wise The Student Details With Roll Number
+
+![Student Management System Screenshot](https://drive.google.com/uc?export=view&id=1fAHGNvFFx-KoybMiHzVvD95T_ndrDLLk)
+## Step- 9 Option 6 Search The Data with roll number
+
+![Student Management System Screenshot](https://drive.google.com/uc?export=view&id=1lUCx8jR7m4QPooMOkOmVuzQAzqquqElW)
+## step - 10 Option 7 Update Student Details With Details Wise 
+
+![Student Management System Screenshot](https://drive.google.com/uc?export=view&id=1BDRVVNxHZ_LeKEV9JYMKqgKadtHonKqa)
